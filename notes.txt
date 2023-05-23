@@ -1,0 +1,2 @@
+Form submit true behavior of the form is little strange.
+event.preventDefault() allows us to prevent any strange behavior form does whenever we submit it.
